@@ -11,9 +11,7 @@ Your plugin can be used in `Brocfile.js` like so:
 var wintersmith = require('broccoli-wintersmith');
 var wintersmithPublicOutput = 'wintersmith-site';
 
-wintersmithPublicOutput = wintersmith(wintersmithPublicOutput, {
-    config: '/full/path/to/wintersmith-site/config.json')
-});
+wintersmithPublicOutput = wintersmith(wintersmithPublicOutput);
 ```
 
 See the example directory for a working basic Wintersmith site.
