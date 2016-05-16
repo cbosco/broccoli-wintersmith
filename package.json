@@ -1,7 +1,7 @@
 {
   "name": "broccoli-wintersmith",
   "description": "Broccoli plugin allowing control of wintersmith static site builds",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Bosco <contact@chrisbosco.com>",
   "main": "lib/index.js",
   "license": "MIT",
