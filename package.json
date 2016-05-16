@@ -1,17 +1,17 @@
 {
-    "name": "broccoli-wintersmith",
-    "description": "Broccoli plugin allowing control of wintersmith static site builds",
-    "version": "0.0.2",
-    "author": "Chris Bosco <contact@chrisbosco.com>",
-    "main": "lib/index.js",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/cbosco/broccoli-wintersmith"
-    },
-    "dependencies": {
-        "rsvp": "^3.0.14",
-        "wintersmith": "^2.1.0",
-        "broccoli-writer": "^0.1.1"
-    }
+  "name": "broccoli-wintersmith",
+  "description": "Broccoli plugin allowing control of wintersmith static site builds",
+  "version": "0.1.0",
+  "author": "Chris Bosco <contact@chrisbosco.com>",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbosco/broccoli-wintersmith"
+  },
+  "dependencies": {
+    "rsvp": "^3.0.14",
+    "wintersmith": "^2.1.0",
+    "broccoli-writer": "^0.1.1"
+  }
 }
